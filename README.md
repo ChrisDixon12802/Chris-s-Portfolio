@@ -17,11 +17,11 @@
         </ul>
       </nav>
 
-     <section class="hero">
+  <section class="hero">
         <h1>Welcome to My Portfolio</h1>
         <p>Hello! My name is Chris and I'm an up-and-coming web developer.</p>
 
-        <p class="goal">
+  <p class="goal">
           My passion is creating websites that are not only user-friendly but
           also the best a website can possibly be in terms of design and
           functionality. I want to make sure that every website I make is the
@@ -34,7 +34,7 @@
         />
       </section>
 
-      <section class="projects">
+   <section class="projects">
         <h2>My Projects</h2>
           <div class="project">
             <img
@@ -75,7 +75,7 @@
       </section>
     </div>
 
-    <footer class="footer">
+ <footer class="footer">
       <p>Privacy policy | Terms of service | Contact Info</p>
     </footer>
   </body>
